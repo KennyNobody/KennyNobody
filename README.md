@@ -1,4 +1,4 @@
-### Front-end developer 👋
+### Front-end developer
 
 <!--
 **KennyNobody/KennyNobody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
