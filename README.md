@@ -19,6 +19,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 ### Education
 
 - learn.javascript.ru: [JavaScript/​DOM/UI for programmers](https://learn.javascript.ru/courses/js-20180219-2100/kenny-nobody/en/certificate.jpg)
+- RSSchool: in progress
 
 ### Languages
 - Russian (native)
