@@ -1,16 +1,25 @@
-### Front-end developer
+# Front-end developer
 
-<!--
-**KennyNobody/KennyNobody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contacts
 
-Here are some ideas to get you started:
+Telegram: [Kenny_Nobody](https://t.me/Kenny_Nobody)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
+
+### Skills and Technologies
+
+- HTML (BEM)
+- CSS (SASS/SCSS)
+- JavaScript (Fundamentals, Functional Programming, OOP)
+- React.js (Redux)
+- Git (Github, Bitbacket)
+- Gulp, Webpack
+- Figma, Adobe Photoshop, Adobe Illustrator
+
+### Education
+
+- learn.javascript.ru: [JavaScript/​DOM/UI for programmers](https://learn.javascript.ru/courses/js-20180219-2100/kenny-nobody/en/certificate.jpg)
+
+### Languages
+- Russian (native)
+- English (pre-intermediate)
