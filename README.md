@@ -22,5 +22,5 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 - RSSchool: in progress
 
 ### Languages
-- Russian (native)
-- English (pre-intermediate)
+- Russian (Native)
+- English ([Pre-intermediate](https://simpler.via-mobi.com/storage/certificate/186/185903_PQfLZYczL0UvC6An.png))
