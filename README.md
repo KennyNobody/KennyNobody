@@ -12,7 +12,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 - CSS (SASS/SCSS)
 - JavaScript (Fundamentals, Functional Programming, OOP)
 - React.js (Redux)
-- Git (Github, Bitbacket)
+- Git (Github, Bitbucket)
 - Gulp, Webpack
 - Figma, Adobe Photoshop, Adobe Illustrator
 
