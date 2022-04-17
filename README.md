@@ -18,15 +18,16 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 
 ### Work examples
 
-- [Конкурс «Лучший социальный проект года»](https://lspg.mbkaliningrad.ru/) - frontend, backend (wordpress)
-- [Рекламно-производственная компания «Ракета»](https://rpk39.ru/) - frontend, backend (wordpress)
-- [Информационный портал «Халва»](https://halva.tj/) - frontend
-- [Центр поддержки экспорта](https://exportkld.ru/) - frontend
-- [Интернет-магазин «Керасфера»](https://kerasfera.ru/) - frontend
+- [Business website «Ракета»](https://rpk39.ru/) - frontend, backend (wordpress)
+- [News portal «Халва»](https://halva.tj/) - frontend
+- [Information portal «Центр поддержки экспорта»](https://exportkld.ru/) - frontend
+- [E-commerce «Керасфера»](https://kerasfera.ru/) - frontend
+- [Personal website «egor-badulin.ru»](https://egor-badulin.ru/) - frontend, backend (wordpress)
+- [Information portal «Лучший социальный проект года»](https://lspg.mbkaliningrad.ru/) - frontend, backend (wordpress)
 
 ### Education
 
-- learn.javascript.ru: [JavaScript/​DOM/UI for programmers](https://learn.javascript.ru/courses/js-20180219-2100/kenny-nobody/en/certificate.jpg)
+- learn.javascript.ru: [JavaScript/DOM/UI for programmers](https://learn.javascript.ru/courses/js-20180219-2100/kenny-nobody/en/certificate.jpg)
 - RSSchool: in progress
 
 ### Languages
