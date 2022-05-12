@@ -33,3 +33,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 ### Languages
 - Russian (Native)
 - English ([Pre-intermediate](https://simpler.via-mobi.com/storage/certificate/186/185903_PQfLZYczL0UvC6An.png))
+
+### Codewars
+
+[![codewars](https://www.codewars.com/users/KennyNobody/badges/small)](https://www.codewars.com/users/KennyNobody/)
