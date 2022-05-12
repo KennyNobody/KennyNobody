@@ -11,7 +11,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 - HTML (BEM)
 - CSS (SASS/SCSS)
 - JavaScript (Fundamentals, Functional Programming, OOP)
-- ![react.js](assets/react.svg)
+- React.js (Redux)
 - Git (Github, Bitbucket)
 - Gulp, Webpack
 - Figma, Adobe Photoshop, Adobe Illustrator
