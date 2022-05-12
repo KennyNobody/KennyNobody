@@ -18,12 +18,19 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 
 ### Work examples
 
-- [Business website «Ракета»](https://rpk39.ru/) - frontend, backend (wordpress)
-- [News portal «Халва»](https://halva.tj/) - frontend
-- [Information portal «Центр поддержки экспорта»](https://exportkld.ru/) - frontend
-- [E-commerce «Керасфера»](https://kerasfera.ru/) - frontend
-- [Personal website «egor-badulin.ru»](https://egor-badulin.ru/) - frontend, backend (wordpress)
-- [Information portal «Лучший социальный проект года»](https://lspg.mbkaliningrad.ru/) - frontend, backend (wordpress)
+- [![егор бадулин](assets/logo-art.svg)](https://egor-badulin.ru/) - frontend, backend (wordpress)
+- [![ракета](assets/logo-rocket.svg)](https://rpk39.ru/) - frontend, backend (wordpress)
+- [![халва](assets/logo-halva.svg)](https://halva.tj/) - frontend
+- [![центр поддержки экспорта](assets/logo-business.svg)](https://exportkld.ru/) - frontend
+- [![керасфера](assets/logo-kerasfera.svg)](https://kerasfera.ru/) - frontend
+- [![лучший социальный проект года](assets/logo-awward.svg)](https://lspg.mbkaliningrad.ru/) - frontend
+
+<!-- - [Business website «Ракета»](https://rpk39.ru/) - frontend, backend (wordpress) -->
+<!-- - [News portal «Халва»](https://halva.tj/) - frontend -->
+<!-- - [Information portal «Центр поддержки экспорта»](https://exportkld.ru/) - frontend -->
+<!-- - [E-commerce «Керасфера»](https://kerasfera.ru/) - frontend -->
+<!-- - [Personal website «egor-badulin.ru»](https://egor-badulin.ru/) - frontend, backend (wordpress) -->
+<!-- - [Information portal «Лучший социальный проект года»](https://lspg.mbkaliningrad.ru/) - frontend, backend (wordpress) -->
 
 ### Education
 
@@ -31,6 +38,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 - RSSchool: in progress
 
 ### Languages
+
 - Russian (Native)
 - English ([Pre-intermediate](https://simpler.via-mobi.com/storage/certificate/186/185903_PQfLZYczL0UvC6An.png))
 
