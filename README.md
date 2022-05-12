@@ -18,12 +18,12 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 
 ### Work examples
 
-- [![егор бадулин](assets/logo-art.svg)](https://egor-badulin.ru/) - frontend, backend (wordpress)
-- [![ракета](assets/logo-rocket.svg)](https://rpk39.ru/) - frontend, backend (wordpress)
-- [![халва](assets/logo-halva.svg)](https://halva.tj/) - frontend
-- [![центр поддержки экспорта](assets/logo-business.svg)](https://exportkld.ru/) - frontend
-- [![керасфера](assets/logo-kerasfera.svg)](https://kerasfera.ru/) - frontend
-- [![лучший социальный проект года](assets/logo-awward.svg)](https://lspg.mbkaliningrad.ru/) - frontend
+[![егор бадулин](assets/logo-art.svg)](https://egor-badulin.ru/)
+[![ракета](assets/logo-rocket.svg)](https://rpk39.ru/)
+[![халва](assets/logo-halva.svg)](https://halva.tj/)
+[![центр поддержки экспорта](assets/logo-business.svg)](https://exportkld.ru/)
+[![керасфера](assets/logo-kerasfera.svg)](https://kerasfera.ru/)
+[![лучший социальный проект года](assets/logo-awward.svg)](https://lspg.mbkaliningrad.ru/)
 
 <!-- - [Business website «Ракета»](https://rpk39.ru/) - frontend, backend (wordpress) -->
 <!-- - [News portal «Халва»](https://halva.tj/) - frontend -->
