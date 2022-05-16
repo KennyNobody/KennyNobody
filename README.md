@@ -24,13 +24,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 [![центр поддержки экспорта](assets/logo-business.svg)](https://exportkld.ru/)
 [![керасфера](assets/logo-kerasfera.svg)](https://kerasfera.ru/)
 [![лучший социальный проект года](assets/logo-awward.svg)](https://lspg.mbkaliningrad.ru/)
-
-<!-- - [Business website «Ракета»](https://rpk39.ru/) - frontend, backend (wordpress) -->
-<!-- - [News portal «Халва»](https://halva.tj/) - frontend -->
-<!-- - [Information portal «Центр поддержки экспорта»](https://exportkld.ru/) - frontend -->
-<!-- - [E-commerce «Керасфера»](https://kerasfera.ru/) - frontend -->
-<!-- - [Personal website «egor-badulin.ru»](https://egor-badulin.ru/) - frontend, backend (wordpress) -->
-<!-- - [Information portal «Лучший социальный проект года»](https://lspg.mbkaliningrad.ru/) - frontend, backend (wordpress) -->
+[![арт баден парк](assets/logo-artbaden.svg)](http://artbaden.diez.io/)
 
 ### Education
 
