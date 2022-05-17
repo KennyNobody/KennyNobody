@@ -24,7 +24,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 [![центр поддержки экспорта](assets/logo-business.svg)](https://exportkld.ru/)
 [![керасфера](assets/logo-kerasfera.svg)](https://kerasfera.ru/)
 [![лучший социальный проект года](assets/logo-awward.svg)](https://lspg.mbkaliningrad.ru/)
-[![арт баден парк](assets/logo-artbaden.svg)](http://artbaden.diez.io/)
+[![арт баден парк](assets/logo-artbaden.svg)](http://art-baden-park.ru/)
 
 ### Education
 
