@@ -34,7 +34,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 ### Languages
 
 - Russian (Native)
-- English ([Pre-intermediate](https://simpler.via-mobi.com/storage/certificate/186/185903_PQfLZYczL0UvC6An.png))
+- English ([Pre-intermediate](https://simpler.via-mobi.com/storage/certificate/194/193274_JrwmwDFArpbLQHYy.png))
 
 ### Codewars
 
