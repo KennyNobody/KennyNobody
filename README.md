@@ -18,6 +18,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 ### Work examples
 
 [![егор бадулин](assets/logo-art.svg)](https://egor-badulin.ru/)
+[![кгту](assets/logo-kgtu.svg)](http://klgtu.diez.io/)
 [![ракета](assets/logo-rocket.svg)](https://rpk39.ru/)
 [![музей истории города ярославля](assets/logo-museum.svg)](http://mukmig.yaroslavl.ru/)
 [![центр поддержки экспорта](assets/logo-business.svg)](https://exportkld.ru/)
