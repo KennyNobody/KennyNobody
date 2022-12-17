@@ -29,7 +29,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 ### Education
 
 - learn.javascript.ru: [JavaScript/DOM/UI for programmers](https://learn.javascript.ru/courses/js-20180219-2100/kenny-nobody/en/certificate.jpg)
-- RSSchool
+- Full Stack open: [Full Stack open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/34fa50a7ff9b8a94357a91aa3b8aff26)
 
 ### Languages
 
