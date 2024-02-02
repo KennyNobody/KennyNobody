@@ -9,15 +9,16 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 
 - HTML (BEM)
 - CSS (SASS/SCSS)
-- JavaScript
+- JavaScript/TypeScript
 - React.js, Vue.js
+- Strapi
 - Git
 - Webpack
 - Figma, Adobe Photoshop, Adobe Illustrator
 
 ### Current project
 
-[![егор бадулин](assets/logo-art.svg)](https://egor-badulin.ru/)
+[![пари нижний новгород](assets/logo-fcnn.svg)](https://fcnn.ru/) (Information part only)
 
 ### Education
 
