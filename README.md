@@ -15,16 +15,9 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 - Webpack
 - Figma, Adobe Photoshop, Adobe Illustrator
 
-### Work examples
+### Current project
 
 [![егор бадулин](assets/logo-art.svg)](https://egor-badulin.ru/)
-[![кгту](assets/logo-kgtu.svg)](https://www.klgtu.ru/)
-[![ракета](assets/logo-rocket.svg)](https://rpk39.ru/)
-[![музей истории города ярославля](assets/logo-museum.svg)](http://mukmig.yaroslavl.ru/)
-[![центр поддержки экспорта](assets/logo-business.svg)](https://exportkld.ru/)
-[![керасфера](assets/logo-kerasfera.svg)](https://kerasfera.ru/)
-[![лучший социальный проект года](assets/logo-awward.svg)](https://lspg.mbkaliningrad.ru/)
-[![арт баден парк](assets/logo-artbaden.svg)](http://art-baden-park.ru/)
 
 ### Education
 
@@ -36,7 +29,3 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 
 - Russian (Native)
 - English ([Pre-intermediate](https://simpler.via-mobi.com/storage/certificate/194/193274_JrwmwDFArpbLQHYy.png))
-
-### Codewars
-
-[![codewars](https://www.codewars.com/users/KennyNobody/badges/small)](https://www.codewars.com/users/KennyNobody/)
