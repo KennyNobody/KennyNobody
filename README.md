@@ -18,7 +18,7 @@ Email: [nobodykenny@gmail.com](mailto:nobodykenny@gmail.com)
 
 ### Current project
 
-[![пари нижний новгород](assets/logo-fcnn.svg)](https://fcnn.ru/) (Information part only)
+[![пари нижний новгород](assets/logo-fcnn.svg)](https://fcnn.ru/) 
 
 ### Education
 
